@@ -1,0 +1,6 @@
+C:\Users\Tomson\source\repos\ConsoleApp1\obj\Debug\net472\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\Tomson\source\repos\ConsoleApp1\obj\Debug\net472\ConsoleApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Tomson\source\repos\ConsoleApp1\obj\Debug\net472\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tomson\source\repos\ConsoleApp1\obj\Debug\net472\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Users\Tomson\source\repos\ConsoleApp1\obj\Debug\net472\ConsoleApp1.AssemblyInfo.cs
+C:\Users\Tomson\source\repos\ConsoleApp1\obj\Debug\net472\ConsoleApp1.csproj.CoreCompileInputs.cache
